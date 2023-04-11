@@ -1,2 +1,3 @@
-# practica-henry
-respositorio de prueba del modulo 2 del curso henry
+daniel alexander rojas molina
+esta prueba es una prueba de como crear un repositorio desde git buh y clonarlo a mi escritorio.
+
